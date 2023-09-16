@@ -1,0 +1,10 @@
+git config --global user.name satya100
+git config --global user.email satyaprakashojha1000@gmail.com
+git init
+git status
+git add .
+git commit -m "(some name)"
+git remote add orgin (url)
+git branch (some name)
+git checkout (branch name)
+git push orgin (branch name)
